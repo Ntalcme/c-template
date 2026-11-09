@@ -1,0 +1,7 @@
+build/
+compile_commands.json
+.cache/
+*.o
+*.d
+*.a
+# Add binary file name
